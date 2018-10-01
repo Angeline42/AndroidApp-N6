@@ -1,0 +1,3 @@
+Hello from Angeline.
+I am learning Git to make money!
+Just adding a new thing!
